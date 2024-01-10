@@ -1,15 +1,12 @@
-[submodule "bundle/vim-scala"]
-	path = bundle/vim-scala
-	url = git://github.com/derekwyatt/vim-scala.git
 [submodule "bundle/vim-rails"]
 	path = bundle/vim-rails
-	url = git://github.com/tpope/vim-rails.git
+	url = git@github.com:tpope/vim-rails.git
 [submodule "bundle/vim-bundler"]
 	path = bundle/vim-bundler
-	url = git://github.com/tpope/vim-bundler.git
+	url = git@github.com:tpope/vim-bundler.git
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
-	url = git://github.com/tpope/vim-surround.git
+	url = git@github.com:tpope/vim-surround.git
 [submodule "bundle/ultisnips"]
 	path = bundle/ultisnips
 	url = https://github.com/SirVer/ultisnips
