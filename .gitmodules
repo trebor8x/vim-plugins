@@ -1,36 +1,39 @@
-[submodule "bundle/vim-rails"]
-	path = bundle/vim-rails
-	url = git@github.com:tpope/vim-rails.git
-[submodule "bundle/vim-bundler"]
-	path = bundle/vim-bundler
-	url = git@github.com:tpope/vim-bundler.git
-[submodule "bundle/vim-surround"]
-	path = bundle/vim-surround
-	url = git@github.com:tpope/vim-surround.git
-[submodule "bundle/ultisnips"]
-	path = bundle/ultisnips
+[submodule "pack/syntax/start/gruvbox"]
+	path = pack/syntax/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "pack/general/start/vim-airline"]
+	path = pack/general/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/general/start/nerdtree"]
+	path = pack/general/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/general/start/fzf.vim"]
+	path = pack/general/start/fzf.vim
+	url = git@github.com:junegunn/fzf.vim.git
+[submodule "pack/general/start/undotree"]
+	path = pack/general/start/undotree
+	url = https://github.com/mbbill/undotree
+[submodule "pack/syntax/start/vim-go"]
+	path = pack/syntax/start/vim-go
+	url = git@github.com:fatih/vim-go.git
+[submodule "pack/general/start/vim-surround"]
+	path = pack/general/start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "pack/syntax/start/vim-rails"]
+	path = pack/syntax/start/vim-rails
+	url = https://github.com/tpope/vim-rails
+[submodule "pack/general/start/vim-fugitive"]
+	path = pack/general/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "pack/general/start/vim-repeat"]
+	path = pack/general/start/vim-repeat
+	url = https://github.com/tpope/vim-repeat
+[submodule "pack/general/start/nerdcommenter"]
+	path = pack/general/start/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter
+[submodule "pack/general/start/ultisnips"]
+	path = pack/general/start/ultisnips
 	url = https://github.com/SirVer/ultisnips
-[submodule "bundle/vim-snippets"]
-	path = bundle/vim-snippets
-	url = https://github.com/honza/vim-snippets.git
-[submodule "bundle/gundo.vim"]
-	path = bundle/gundo.vim
-	url = https://github.com/sjl/gundo.vim.git
-[submodule "bundle/vim-haml"]
-	path = bundle/vim-haml
-	url = https://github.com/tpope/vim-haml.git
-[submodule "bundle/vim-coffee-script"]
-	path = bundle/vim-coffee-script
-	url = https://github.com/kchmck/vim-coffee-script.git
-[submodule "bundle/ack.vim"]
-	path = bundle/ack.vim
-	url = https://github.com/mileszs/ack.vim.git
-[submodule "bundle/vim-airline"]
-	path = bundle/vim-airline
-	url = https://github.com/vim-airline/vim-airline
-[submodule "bundle/vim-fugitive"]
-	path = bundle/vim-fugitive
-	url = https://github.com/tpope/vim-fugitive.git
-[submodule "bundle/vim-go"]
-	path = bundle/vim-go
-	url = https://github.com/fatih/vim-go.git
+[submodule "pack/general/start/vim-snippets"]
+	path = pack/general/start/vim-snippets
+	url = https://github.com/honza/vim-snippets
